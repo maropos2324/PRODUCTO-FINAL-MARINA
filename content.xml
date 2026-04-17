@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260417232033N6UG9S</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604172320339U4VPI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>NUESTRO PRODUCTO FINAL.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>UN VIAJE POR EL LEJANO ORIENTE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MARINA SÁNCHEZ SÁNCHEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado deberá organizar una sesión de educación física en la que invitarán a las familias a participar. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776460819477</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1776262011216-r2yafs7x6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262011216-r2yafs7x6</odePageId>
+      <odeBlockId>block-1776262216969-3vomm01yj</odeBlockId>
+      <blockName>PRESENTACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262011216-r2yafs7x6</odePageId>
+          <odeBlockId>block-1776262216969-3vomm01yj</odeBlockId>
+          <odeIdeviceId>idevice-1776262216964-r579pgh2v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Presentación">Presentación</span></dt><dd>05:00</dd></div><div class="inline"><dt><span title="4 grupos">4 grupos</span></dt><dd>23</dd></div></dl><p>Bienvenidos al Lejano Oriente, a través del paso por este nuevo continente os adentraréis en la cultura asiática. Una vez finalizado el viaje tendréis un reto final. ¡Disfrutad del viaje!</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776262216964-r579pgh2v","textInfoDurationInput":"05:00","textInfoDurationTextInput":"Presentación","textInfoParticipantsInput":"23","textInfoParticipantsTextInput":"4 grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Presentación\">Presentación</span></dt><dd>05:00</dd></div><div class=\"inline\"><dt><span title=\"4 grupos\">4 grupos</span></dt><dd>23</dd></div></dl><p>Bienvenidos al Lejano Oriente, a través del paso por este nuevo continente os adentraréis en la cultura asiática. Una vez finalizado el viaje tendréis un reto final. ¡Disfrutad del viaje!</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776262011216-r2yafs7x6</odePageId>
+      <odeBlockId>block-1776262362937-yr1romie1</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262011216-r2yafs7x6</odePageId>
+          <odeBlockId>block-1776262362937-yr1romie1</odeBlockId>
+          <odeIdeviceId>idevice-1776262362934-40h96bnm7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776262362934-40h96bnm7" title="" href="{{context_path}}/content/resources/aaa.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/aaa.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776262362934-40h96bnm7","img_0":{"img":"{{context_path}}/content/resources/aaa.jpeg","thumbnail":"{{context_path}}/content/resources/aaa.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262036359-kpvlkawvc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DIGITAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DIGITAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262036359-kpvlkawvc</odePageId>
+      <odeBlockId>block-1776262435622-2u6xzwj2j</odeBlockId>
+      <blockName>¡CUIDADO!</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262036359-kpvlkawvc</odePageId>
+          <odeBlockId>block-1776262435622-2u6xzwj2j</odeBlockId>
+          <odeIdeviceId>idevice-1776262435620-rkmy8red8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.canva.com/design/DAHEaI-oGgA/nP9OXaQYcVNvHKCxa-nccQ/view?utm_content=DAHEaI-oGgA&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=he29bde573f" title="">ATIENTE A LAS SIGUIENTES INDICACIONES ANTES DE EMPEZAR A INVESTIGAR. </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776262435620-rkmy8red8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.canva.com/design/DAHEaI-oGgA/nP9OXaQYcVNvHKCxa-nccQ/view?utm_content=DAHEaI-oGgA&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=he29bde573f\" title=\"\">ATIENTE A LAS SIGUIENTES INDICACIONES ANTES DE EMPEZAR A INVESTIGAR. </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262070974-txt0u5r77</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL RETO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL RETO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262070974-txt0u5r77</odePageId>
+      <odeBlockId>block-1776262568448-ajzblkb5n</odeBlockId>
+      <blockName>MANOS A LA OBRA</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262070974-txt0u5r77</odePageId>
+          <odeBlockId>block-1776262568448-ajzblkb5n</odeBlockId>
+          <odeIdeviceId>idevice-1776262568445-tx8txipg0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debéis escoger entre todos los juegos trabajados en las sesiones de educación física, uno de ellos y preparar una explicación oral y motriz, es decir, realizar una demostración en clase. Se lo debéis explicar a los compañeros y organizar el juego. </p>
+<p>Si superáis este pequeño reto, pasaremos al siguiente: PREPARARLES UNA SESIÓN DE EDUCACÓN FÍSICA A VUESTROS FAMILIARES. </p>
+<p>Los invitaremos al cole y jugarán con nosotros a los juegos escogidos. Seréis ustedes quienes le expliquen los juegos a las familias. </p>
+<p>¡Manos a la obra!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776262568445-tx8txipg0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debéis escoger entre todos los juegos trabajados en las sesiones de educación física, uno de ellos y preparar una explicación oral y motriz, es decir, realizar una demostración en clase. Se lo debéis explicar a los compañeros y organizar el juego. </p>\n<p>Si superáis este pequeño reto, pasaremos al siguiente: PREPARARLES UNA SESIÓN DE EDUCACÓN FÍSICA A VUESTROS FAMILIARES. </p>\n<p>Los invitaremos al cole y jugarán con nosotros a los juegos escogidos. Seréis ustedes quienes le expliquen los juegos a las familias. </p>\n<p>¡Manos a la obra!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262077514-tm35zpxqm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262077514-tm35zpxqm</odePageId>
+      <odeBlockId>block-1776262999081-bh6520n70</odeBlockId>
+      <blockName>BUSQUEDA DE INFORMACIÓN</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262077514-tm35zpxqm</odePageId>
+          <odeBlockId>block-1776262999081-bh6520n70</odeBlockId>
+          <odeIdeviceId>idevice-1776262999076-ljvfzagjt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A TRAVÉS DE ESTOS ENLACES PUEDES ENCONTRAR OTROS ENLACES QUE TE AYUDARÁN A MONTAR TU PRODUCTO FINAL. <a href="https://padlet.com/marinasanchezzz2024/el-lejano-oriente-kaz2j5czk0a7dvqb" title="">https://padlet.com/marinasanchezzz2024/el-lejano-oriente-kaz2j5czk0a7dvqb</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==" title="https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==">https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776262999076-ljvfzagjt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A TRAVÉS DE ESTOS ENLACES PUEDES ENCONTRAR OTROS ENLACES QUE TE AYUDARÁN A MONTAR TU PRODUCTO FINAL. <a href=\"https://padlet.com/marinasanchezzz2024/el-lejano-oriente-kaz2j5czk0a7dvqb\" title=\"\">https://padlet.com/marinasanchezzz2024/el-lejano-oriente-kaz2j5czk0a7dvqb</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==\" title=\"https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==\">https://www.symbaloo.com/shared/AAAAB5Fxg6QAA42AShUguw==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262097565-7bzsw5i5x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262097565-7bzsw5i5x</odePageId>
+      <odeBlockId>block-1776263325424-a3uw2g6bx</odeBlockId>
+      <blockName>¿CUÁNDO SE REALIZA EL PROYECTO?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262097565-7bzsw5i5x</odePageId>
+          <odeBlockId>block-1776263325424-a3uw2g6bx</odeBlockId>
+          <odeIdeviceId>idevice-1776263325423-zlzq5aui1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>EL PROYECTO SE REALIZARÁ DURANTE DOS SEMANAS. A TRAVÉS DE ESTE ENLACE SE IBSERVA QUÉ SE REALIZA EN CADA SESIÓN. <a href="https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing" title="https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing">https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776263325423-zlzq5aui1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>EL PROYECTO SE REALIZARÁ DURANTE DOS SEMANAS. A TRAVÉS DE ESTE ENLACE SE IBSERVA QUÉ SE REALIZA EN CADA SESIÓN. <a href=\"https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing\" title=\"https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing\">https://drive.google.com/file/d/1eIqgpTwnUkTDxH0rCG_YctWSZGTQUXVq/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262104530-uz3y5asya</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS A EVALUAR</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS A EVALUAR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262104530-uz3y5asya</odePageId>
+      <odeBlockId>block-1776263515968-70gbbjk1j</odeBlockId>
+      <blockName>¿QUÉ SE EVALÚA?</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262104530-uz3y5asya</odePageId>
+          <odeBlockId>block-1776263515968-70gbbjk1j</odeBlockId>
+          <odeIdeviceId>idevice-1776263515967-cr0gq4ccs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Si observamos la temporalización, se puede ver que cada actividad está vinculada a un criterio de evaluación. ¿Qué criterios se evaluan en este proyyecto? Véase en el siguiente enlace:</span></span></p>
+<p><a href="https://drive.google.com/file/d/1wFKB0F_y0QxQnTPQmJd3S6bXOIeQZQjz/view?usp=sharing" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://drive.google.com/file/d/1wFKB0F_y0QxQnTPQmJd3S6bXOIeQZQjz/view?usp=sharing</span></span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776263515967-cr0gq4ccs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Si observamos la temporalización, se puede ver que cada actividad está vinculada a un criterio de evaluación. ¿Qué criterios se evaluan en este proyyecto? Véase en el siguiente enlace:</span></span></p>\n<p><a href=\"https://drive.google.com/file/d/1wFKB0F_y0QxQnTPQmJd3S6bXOIeQZQjz/view?usp=sharing\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://drive.google.com/file/d/1wFKB0F_y0QxQnTPQmJd3S6bXOIeQZQjz/view?usp=sharing</span></span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776262129796-5cid1jh1p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776262129796-5cid1jh1p</odePageId>
+      <odeBlockId>block-1776263467666-9x441no5c</odeBlockId>
+      <blockName>EVALUACIÓN</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776262129796-5cid1jh1p</odePageId>
+          <odeBlockId>block-1776263467666-9x441no5c</odeBlockId>
+          <odeIdeviceId>idevice-1776263467660-wllvmdp3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/drive/folders/1Ewtj-ZMe0thmVYYWzOr6UGs2i8jylPqz?usp=sharing" title="">https://drive.google.com/drive/folders/1Ewtj-ZMe0thmVYYWzOr6UGs2i8jylPqz?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776263467660-wllvmdp3q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/drive/folders/1Ewtj-ZMe0thmVYYWzOr6UGs2i8jylPqz?usp=sharing\" title=\"\">https://drive.google.com/drive/folders/1Ewtj-ZMe0thmVYYWzOr6UGs2i8jylPqz?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776263667164-v13fybeij</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776263667164-v13fybeij</odePageId>
+      <odeBlockId>block-1776263669131-jains4cxd</odeBlockId>
+      <blockName>INFORMACIÓN ÚTIL</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776263667164-v13fybeij</odePageId>
+          <odeBlockId>block-1776263669131-jains4cxd</odeBlockId>
+          <odeIdeviceId>idevice-1776263669130-6c3aike7p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En cada una de las páginas de este Exelearning, os adentraréis en el lejano oriente. En cada una de las páginas, se puede observar de manera muy detallada lo que se pide al alumnado en cada momento. Del mismo modo, se les ofrece enlaces dirigidos a webs de uso sencillo donde pueden encontrar información para crear el producto o reto final. Además, enlaces dirigidos a carpetas de Google Drive donde encontrarán los instrumentos de evaluación con los que se evaluará al alumnado. Por último, en esas carpetas y documentos de drive encontraréis mi correo. No duden en escribirme si hay alguna duda. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776263669130-6c3aike7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En cada una de las páginas de este Exelearning, os adentraréis en el lejano oriente. En cada una de las páginas, se puede observar de manera muy detallada lo que se pide al alumnado en cada momento. Del mismo modo, se les ofrece enlaces dirigidos a webs de uso sencillo donde pueden encontrar información para crear el producto o reto final. Además, enlaces dirigidos a carpetas de Google Drive donde encontrarán los instrumentos de evaluación con los que se evaluará al alumnado. Por último, en esas carpetas y documentos de drive encontraréis mi correo. No duden en escribirme si hay alguna duda. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776313690813-wsfmw39ft</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORÍA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776313690813-wsfmw39ft</odePageId>
+      <odeBlockId>block-1776313739058-wojvam5r9</odeBlockId>
+      <blockName>AUTORÍA, DESCRIPCIÓN Y LICENCIA DE USO</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776313690813-wsfmw39ft</odePageId>
+          <odeBlockId>block-1776313739058-wojvam5r9</odeBlockId>
+          <odeIdeviceId>idevice-1776313739055-84vm7d47h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este material puede ser usado. En caso de compartirlo se debe transformar la información, adaptar, remezclar y construir información nueva a partir de esta.<img src="{{context_path}}/content/resources/mceclip0.png" width="240" height="89" alt="" /></p>
+<pre>AUTORA: MARINA SÁNCHEZ SÁNCHEZ</pre>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776313739055-84vm7d47h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este material puede ser usado. En caso de compartirlo se debe transformar la información, adaptar, remezclar y construir información nueva a partir de esta.<img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"240\" height=\"89\" alt=\"\" /></p>\n<pre>AUTORA: MARINA SÁNCHEZ SÁNCHEZ</pre>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
